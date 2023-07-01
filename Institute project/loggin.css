@@ -1,0 +1,10 @@
+body {
+    background: rgb(106, 27, 180);
+}
+    h1{
+    text-align: center;
+    place-content: center;
+    gap: 1ch;
+    align-items: center;
+    padding: 300px;
+}
